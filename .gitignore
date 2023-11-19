@@ -1,0 +1,15 @@
+/target
+.idea
+*~
+*.bak
+*.swp
+*.o
+*.a
+*.so
+*.so.*
+*.la
+*.dll
+*.obj
+*.pyc
+*.pyo
+__pycache__
